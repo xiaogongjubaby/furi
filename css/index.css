@@ -1,0 +1,150 @@
+*
+body
+{
+	margin: 0px;
+	body {color:#F7F6F6 !important} /*设置全局没链接的文字颜色*/ 
+}
+    a:link {color:#ffffff !important} /*设置全局未点击链接的颜色*/ 
+	a:visited {color:#000000 !important} /*设置全局被点击后的链接颜色*/ 
+	a:hover {color:#DCDCDC!important} /*设置全局鼠标悬停在链接上未点击时的颜色*/ 
+	a:active {color: !important} /*设置全局鼠标在点击链接瞬间发生的动作*/
+	a{text-decoration:none;}
+img
+{
+	display: block;
+}
+.la
+{
+	margin-left:107px;
+}
+.top
+{
+	height: 59px;
+}
+.top_juzhong
+{
+	margin: auto;
+	height: 59px;
+	width: 1000px;
+}
+.logo
+{
+	height: 56px;
+	width: 62px;
+	float: left;
+}
+.text
+{
+	height: 10px;
+	width: 718px;
+	float: left;
+	margin-left:8px;
+}
+.text ul
+{
+
+	list-style: none;
+}
+.text ul li
+{
+	text-decoration:none;
+	float: left;
+	padding-right:50px;
+	margin-top:10px;
+}
+a
+{
+	text-decoration:none;
+}
+.yuyan
+{
+	margin-left:20px;
+	float: right;
+
+}
+.yuyan ul
+{
+	font-size: 12px;
+}
+.yuyan ul li
+{
+	float: left;
+	padding-right: 10px;
+	margin-top: 20px;
+	list-style: none
+}
+.xian
+{
+	height: 2px;
+	background: blue;
+}
+.tops
+{
+	width:1366px;
+	margin:auto;
+}
+.nav
+{
+	width:1366px;
+	margin: auto;
+}
+.nav img
+{
+	position:relative;
+}
+.nav_xing img
+{
+	position: relative;	left:244px;top:-192px;
+	float:left;
+	padding-left: 120px;
+}
+.tlie
+{
+	background:#1b1b1b;
+	height:180px;
+	color: #DCDCDC;
+}
+.tlie_box
+{
+	position: relative;left: -589px;top:80px;
+}
+.text1
+{
+	font-size: 13px;
+	position: relative; right:538px;top:60px;
+}
+.text2
+{
+	font-size: 10px;
+	position: relative; right:210px;top:60px;
+	font-color: #C0C0C0;
+}
+ul li
+{
+	list-style-type: none;
+}
+.tlie_you
+{
+	margin: auto;
+	height: 150px;
+	width: 880px;
+	position: relative;left:50px;top: -50px;
+}
+
+.ft
+{
+	width: 200px;
+	font-size: 13px;
+	line-height:22px;
+	position: relative;left:168px;bottom:80px;
+}
+.lx
+{
+	font-size: 13px;
+	line-height:22px;
+	position: relative;left:378px;top:-189px;
+}
+.wei
+{
+	position: relative;left:780px;top: -289px;
+}

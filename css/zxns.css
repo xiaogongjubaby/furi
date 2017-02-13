@@ -1,0 +1,172 @@
+*
+body
+{
+	margin: 0px;
+}
+    a:link {color:#ffffff !important} /*设置全局未点击链接的颜色*/ 
+	a:visited {color:#000000 !important} /*设置全局被点击后的链接颜色*/ 
+	a:hover {color:#DCDCDC!important} /*设置全局鼠标悬停在链接上未点击时的颜色*/ 
+	a:active {color: !important} /*设置全局鼠标在点击链接瞬间发生的动作*/
+	a{text-decoration:none;}
+img
+{
+	display: block;
+}
+.la
+{
+	margin-left:645px;
+}
+.top
+{
+	height: 59px;
+}
+.top_juzhong
+{
+	margin: auto;
+	height: 59px;
+	width: 1000px;
+}
+.logo
+{
+	height: 56px;
+	width: 62px;
+	float: left;
+}
+.text
+{
+	height: 10px;
+	width: 718px;
+	float: left;
+	margin-left:8px;
+}
+.text ul
+{
+
+	list-style: none;
+}
+.text ul li
+{
+	float: left;
+	padding-right:50px;
+	margin-top:10px;
+}
+a
+{
+	text-decoration:none;
+}
+.yuyan
+{
+	margin-left:20px;
+	float: right;
+
+}
+.yuyan ul
+{
+	font-size: 12px;
+}
+.yuyan ul li
+{
+	float: left;
+	padding-right: 10px;
+	margin-top: 20px;
+	list-style: none
+}
+.xian
+{
+	height: 2px;
+	background: blue;
+}
+.tops
+{
+
+	margin-left: 210px;
+}
+
+.nav
+{
+	width:1366px;
+	height: 380px;
+	margin: auto;
+	margin-left:250px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.left
+{
+	float: left;
+	font-size: 16px;
+	text-indent:2em
+
+}
+.right
+{
+	float: right;
+	margin-right:300px;
+	margin-top: 50px;
+}
+.tlie
+{
+	background:#1B1B1B;
+	height:180px;
+	color:#DCDCDC;
+	margin-top: 30px;
+}
+.tlie_left
+{
+	width: 300px;
+	height: 120px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.tlie_box
+{
+	margin-left: 75px;
+	margin-top: 60px;
+	float: left;
+}
+.text1
+{
+	margin-left:132px;
+	margin-top: -18px;
+	float: left;
+
+}
+
+.tlie_you
+{
+	margin: auto;
+	height: 150px;
+	width: 880px;
+	margin-left: 350px;
+	float: left;
+	margin-top: -120px;
+}
+
+.ft
+{
+	width: 200px;
+	font-size: 13px;
+	line-height:22px;
+	position: relative;left:0px;bottom:-10px;
+}
+.ft ul
+{
+	list-style: none;
+}
+
+.lx
+{
+	font-size: 13px;
+	line-height:22px;
+	position: relative;left:100px;top:-100px;
+}
+.lx ul
+{
+	list-style: none;
+}
+.wei
+{
+
+	position: relative;left:350px;top: -189px;
+}
